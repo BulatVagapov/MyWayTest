@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 775007751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f90196a2fe8b9002ca4b81b78ce9912c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f90196a2fe8b9002ca4b81b78ce9912c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprites/RedButton.png
+- Assets/Sprites/GreenButton.png
+Dependencies: []
